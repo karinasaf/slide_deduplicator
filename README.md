@@ -1,5 +1,3 @@
-Here is a clean, minimal `README.md` for your project.
-
 ---
 
 # Slide Deduplicator
