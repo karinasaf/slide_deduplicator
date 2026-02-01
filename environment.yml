@@ -1,0 +1,9 @@
+name: slide-deduplicator
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.9
+  - pypdf
+  - pip
+  - pip:
+      - -e .

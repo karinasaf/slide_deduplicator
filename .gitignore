@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+
+# PDFs (input/output data)
+*.pdf
+
+# Logs
+*.log
+
+# Test artefacts
+/tmp/
+
+# Zone identifiers
+*:Zone.Identifier
